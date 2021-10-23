@@ -21,6 +21,8 @@ const LoginForm = ({ handleSubmit, error }) => {
             <div>
                 <button>Login</button>
             </div>
+            <p>Email: free@samuraijs.com</p>
+            <p>Password: free</p>
         </form>
     )
 }
